@@ -36,7 +36,7 @@ Instead of relying on an LLM's general knowledge, the application retrieves the 
 | Component | Technology |
 |------------|------------|
 | Language | Python |
-| LLM | OpenAI GPT |
+| LLM | Ollama |
 | Framework | LangChain |
 | Vector Database | ChromaDB |
 | Embeddings | OpenAI Embeddings |
